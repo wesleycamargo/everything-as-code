@@ -1,4 +1,5 @@
 
+```
 book
 ├───part1-the-basics
 │       chapter1-introduction.md
@@ -21,3 +22,4 @@ book
         datacenter.md
         landing-zones.md
         reusability-strategies.md
+```
